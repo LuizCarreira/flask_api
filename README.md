@@ -44,3 +44,29 @@ This is a test URL. If you have set up the environment correctly, the following 
 ```
 message	"test route"
 ```
+
+## Routes
+
+### To filter by cod_variavel
+
+```
+http://localhost:4000/cod_variavel/{id}
+```
+
+### To filter by cod_produto_lavouras_temporarias
+
+```
+http://localhost:4000/cod_produto_lavouras_temporarias/{id}
+```
+
+### To filter by cod_ano
+
+```
+http://localhost:4000/cod_ano/{id}
+```
+
+### To filter by cod_municipio
+
+```
+http://localhost:4000/cod_municipio/{id}
+```
