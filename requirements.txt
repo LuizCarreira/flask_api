@@ -1,0 +1,5 @@
+flask
+psycopg2
+psycopg2-binary
+pandas==0.25.3
+connexion[swagger-ui]==2.14.1
